@@ -4,7 +4,7 @@
     "bare-server-node": "github:tomphttp/bare-server-node",
     "node-static": "^0.7.11"
   },
-  "name": "uv-app",
+  "name": "playsaanmath-unblock",
   "version": "1.0.0",
   "description": "Ultraviolet instance",
   "main": "index.js",
